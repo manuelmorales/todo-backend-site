@@ -7,5 +7,5 @@ gem "microstatic", '~>0.6.0'
 gem 'mime-types', '~> 3.0' # transitively required by fog via microstatic
 
 gem "middleman", "~>3.3.6"
-gem "middleman-livereload", "~> 3.1.0"
+gem "middleman-livereload", "~> 3.4.6"
 gem 'middleman-google-analytics', '~> 1.1.0'
